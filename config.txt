@@ -21,9 +21,9 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-03-24",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "只要你在身边，就十分美好",
+"note_ch": "",
 # 金句英文
-"note_en": "A long as you accompany me,I will feel so happy."
+"note_en": ""
 }
 
 #更多资源学习请访问东阁：https://oo1o.cn
